@@ -1,6 +1,6 @@
 # 使用 SeleniumBase 进行网页抓取
 
-[![Promo](https://github.com/luminati-io/LinkedIn-Scraper/blob/main/Proxies%20and%20scrapers%20GitHub%20bonus%20banner.png)](https://brightdata.com)
+[![Promo](https://github.com/bright-cn/Google-News-Scraper/blob/main/Proxies%20and%20scrapers%20GitHub%20bonus%20banner%20CN.png)](https://www.bright.cn)
 
 使用 SeleniumBase 的高级功能与分步指南来简化网页抓取。对 Selenium 网页抓取感兴趣？可查看此指南：[使用 Selenium 进行网络爬虫指南](https://www.bright.cn/blog/how-tos/using-selenium-for-web-scraping)。
 
