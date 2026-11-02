@@ -1,6 +1,6 @@
 # 使用 SeleniumBase 进行网页爬虫
 
-[![推广](https://github.com/bright-cn/LinkedIn-Scraper/blob/main/Proxies%20and%20scrapers%20GitHub%20bonus%20banner.png)](https://www.bright.cn/)
+[![推广](https://github.com/bright-cn/Awesome-Web-Scraping/blob/main/Proxies%20and%20scrapers%20GitHub%20bonus%20banner%20CN.png)](https://www.bright.cn/)
 
 利用 SeleniumBase 的高级功能和分步指南，简化网页爬虫流程。对 Selenium 网页爬虫感兴趣？查看[本指南](https://www.bright.cn/blog/how-tos/using-selenium-for-web-scraping)。
 
